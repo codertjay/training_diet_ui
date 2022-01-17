@@ -309,6 +309,7 @@ class ProfileScreen extends StatelessWidget {
           showSelectedLabels: false,
           showUnselectedLabels: false,
           items: [
+
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
               label: 'home',
